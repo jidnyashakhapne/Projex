@@ -30,4 +30,3 @@ The API runs at `http://localhost:8000`. Without Supabase credentials, it uses t
 3. Copy `backend/.env.example` to `backend/.env`.
 4. Fill in `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY`.
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-8jazfa45)
